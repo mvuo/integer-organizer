@@ -17,17 +17,12 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- The parameters of the project will depend on the global variables ARRAYSIZE, LO, and HI. Arraysize is set to default 200 and will change the number of random integers initially added to the array. LO and HI are the bounds of numbers that are generated into the array.
+- The purpose of this project is to reinforce concepts related to usage of the runtime stack, proper modularization practices, use of STDCALL calling conventions, use of arrays in x86 assembly language, and Indirect Operands addressing modes (CLO 3, 4, 5)
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- N/A
 
 
 ## Features
