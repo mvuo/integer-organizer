@@ -75,6 +75,6 @@ Give credit here.
 Created by Michael Vuong.https://www.linkedin.com/in/vuong-michael/ - feel free to contact me!
 
 
-<!-- ## License -->
+ ## License
 N/A
 
