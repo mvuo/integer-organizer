@@ -39,47 +39,42 @@
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
+No setup required. Only an editor to write x86 assembly code.
+Link to Visual Studio here:
+https://visualstudio.microsoft.com/
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+User will only need to run program for it to function. Global variables ARRAYSIZE, LO, and HI can be altered to change the size of the generated array and the random numbers generated that go into the array.
 
-`write-your-code-here`
+For example:
+
+- Changing the default ARRAYSIZE = 200 to ARRAYSIZE = 300 will generate an array with 300 values instead of 200
+- Changing the default LO = 15 to LO = 30 will change the minimum value of randomly generated numbers from 15 to 30
+- Changing the default HI = 50 to HI = 100 will change the maximum value of randomly generated numbers from 50 to 100
+
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _complete_
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Add more functionalities to how the array is processed such as finding the mode and average as well.
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Generating the numbers directly into a file, then read the file into the array. This may modify procedure parameters however.
 
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was created by OSU 271 to allow students to develop their understanding of arrays, addressing, and stack-passed parameters
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Michael Vuong.https://www.linkedin.com/in/vuong-michael/ - feel free to contact me!
 
 
-<!-- Optional -->
 <!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+N/A
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
