@@ -34,7 +34,7 @@
 
 ## Screenshots
 
-(https://user-images.githubusercontent.com/50156212/207250075-ba8afe66-dfb9-4897-83b9-16a0f35e4048.PNG)
+![Example screenshot](https://user-images.githubusercontent.com/50156212/207250075-ba8afe66-dfb9-4897-83b9-16a0f35e4048.PNG)
 
 
 
