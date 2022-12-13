@@ -26,15 +26,16 @@
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Generates and displays an array of random integers. The size will depend on ARRAYSIZE global variable and the bounds will depend on LO and HI global variables (inclusive).
+- Sorts the array generated using bubble sort and displays the sorted array.
+- Finds the median value of the array.
+- Counts the number of times each number between LO and HI global variables appears in the random array. This values are put into another array and displayed.
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
+(https://user-images.githubusercontent.com/50156212/207250075-ba8afe66-dfb9-4897-83b9-16a0f35e4048.PNG)
+
 
 
 ## Setup
