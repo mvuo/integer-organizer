@@ -1,6 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Integer Organizer
+> randomly obtains 200 numbers between 15-50 (inclusive) and displays it in the form of an array. Will sort all the numbers from lowest to highest using a bubble sort. Displays the median as well as counting the number of times each number between 15-50 (inclusive) appears in the array.
+
 
 ## Table of Contents
 * [General Info](#general-information)
